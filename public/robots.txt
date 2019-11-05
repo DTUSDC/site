@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://dtusdc.com/sitemap.xml
+Host: https://dtusdc.com
