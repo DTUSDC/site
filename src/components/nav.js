@@ -46,7 +46,7 @@ const Logo = styled.div`
 const LogoLink = styled.a`
   display: block;
   color: ${colors.green};
-  width: 42px;
+  width: 100px;
   height: 42px;
   &:hover,
   &:focus {
