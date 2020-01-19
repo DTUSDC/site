@@ -4,8 +4,8 @@ title: ''
 company: 'Computer Vision'
 location: ''
 range: ''
-url: ''
+url: 'https://github.com/DTUSDC/perception'
 ---
 
-- DTUSDC endeavors to incubate state-of-the-art technology in the fast-growing field of Computer Vision indigenously.
-- We have gradually become one of the leading innovators in this domain in today's times.
+- Computer Vision in autonomous cars can lead to the designing and development of advanced and next-gen vehicles which can overcome driving obstacles while keeping passengers safe..
+- The technology can enable self-driving vehicles to classify and detect different objects. The vehicle can use LiDar sensors and cameras, and the former can use pulsed laser beams to measure distance.

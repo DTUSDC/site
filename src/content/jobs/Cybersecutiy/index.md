@@ -7,5 +7,5 @@ range: ''
 url: ''
 ---
 
-- DTUSDC endeavors to incubate state-of-the-art technology in the fast-growing field of Cybersecurity indigenously.
-- We have gradually become one of the leading innovators in this domain in today's times.
+- We develop a self-driving vehicle whose primary objective is to mitigate road fatalities - which are generally caused by human negligence.
+- Though driverless vehicles go a long way in reducing day-to-day accidents, the robust systems that we develop may still have some loopholes and vulnerabilities. As a result, this allows malicious hackers to take advantage of such inadequacies. Any autonomous vehicle’s cyber-risk is of prime concern to insurers, regulators and policing authorities, thus, an appropriate method for risk assessment is required.
