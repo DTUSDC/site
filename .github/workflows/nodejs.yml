@@ -1,14 +1,18 @@
 name: GatsbyJS Build
 
-on: push
+on: [push, pull_request]
 
 jobs:
   build:
-    name: Build Gatsby Site
     runs-on: ubuntu-latest
+
     steps:
-    - uses: actions/checkout@master
-    - name: Build Gatsby Site
-      uses: jzweifel/gatsby-cli-github-action@master
-      with:
-        gatsby-arg: build
+      # Check out the current repository code
+      - uses: actions/checkout@v1
+      # https://github.com/actions/setup-node#usage
+      - uses: actions/setup-node@v1
+        with:
+          node-version: "12.x"
+      - run: npm install
+      # This triggers `gatsby build` script in "package.json"
+      - run: npm run build
